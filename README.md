@@ -1,2 +1,0 @@
-Mauricio
-Edad: 20
